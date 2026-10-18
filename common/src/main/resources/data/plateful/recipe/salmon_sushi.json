@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:rice",
+		"minecraft:salmon"
+	],
+	"result": {
+		"id": "plateful:salmon_sushi"
+	}
+}

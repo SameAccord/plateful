@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:rotten_flesh",
+		"minecraft:golden_apple",
+		"minecraft:enchanted_golden_apple",
+		"minecraft:golden_carrot",
+		"minecraft:honey_bottle",
+		"minecraft:dried_kelp",
+		"minecraft:poisonous_potato",
+		"minecraft:spider_eye",
+		"minecraft:chorus_fruit",
+		"minecraft:suspicious_stew"
+	]
+}

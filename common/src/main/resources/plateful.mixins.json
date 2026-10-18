@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.sameaccord.plateful.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"FoodPropertiesMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

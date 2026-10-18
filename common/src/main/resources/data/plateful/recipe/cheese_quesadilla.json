@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:tortilla",
+		"plateful:cheese"
+	],
+	"result": {
+		"id": "plateful:cheese_quesadilla"
+	}
+}

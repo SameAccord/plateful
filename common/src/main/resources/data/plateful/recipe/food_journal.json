@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:book",
+		"minecraft:bread"
+	],
+	"result": {
+		"id": "plateful:food_journal"
+	}
+}

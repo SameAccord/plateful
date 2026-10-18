@@ -1,0 +1,59 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# os files
+
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# fabric / neoforge dev runs
+
+run/
+runs/
+logs/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# python (art/ texture scripts)
+
+__pycache__/
+*.pyc
+.venv/
+art/
+
+# claude code: personal, machine-specific settings
+
+.claude/settings.local.json
+
+# asprite
+
+*.aseprite

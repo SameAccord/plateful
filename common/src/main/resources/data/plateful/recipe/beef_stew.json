@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:potato",
+		"minecraft:carrot",
+		"minecraft:beef",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:beef_stew"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:rice",
+		"minecraft:cooked_chicken",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:chicken_rice_bowl"
+	}
+}

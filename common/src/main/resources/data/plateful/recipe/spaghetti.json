@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:noodles",
+		"plateful:tomato",
+		"minecraft:cooked_beef",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:spaghetti"
+	}
+}

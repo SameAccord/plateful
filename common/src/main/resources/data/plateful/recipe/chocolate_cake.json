@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"M": "minecraft:milk_bucket",
+		"C": "minecraft:cocoa_beans",
+		"E": "minecraft:egg",
+		"W": "minecraft:wheat"
+	},
+	"pattern": [
+		"MMM",
+		"CEC",
+		"WWW"
+	],
+	"result": {
+		"id": "plateful:chocolate_cake"
+	}
+}

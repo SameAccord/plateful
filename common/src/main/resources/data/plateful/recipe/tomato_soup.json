@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:tomato",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:tomato_soup"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:baked_potato",
+		"minecraft:milk_bucket",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:mashed_potatoes"
+	}
+}

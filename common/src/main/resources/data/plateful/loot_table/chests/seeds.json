@@ -1,0 +1,54 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": 1,
+			"condition": {
+				"type": "minecraft:random_chance",
+				"chance": 0.35
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "plateful:rice_seeds",
+					"weight": 1,
+					"modifier": {
+						"type": "minecraft:set_count",
+						"count": {
+							"type": "minecraft:uniform",
+							"min": 2,
+							"max": 4
+						}
+					}
+				},
+				{
+					"type": "minecraft:item",
+					"name": "plateful:lettuce_seeds",
+					"weight": 1,
+					"modifier": {
+						"type": "minecraft:set_count",
+						"count": {
+							"type": "minecraft:uniform",
+							"min": 2,
+							"max": 4
+						}
+					}
+				},
+				{
+					"type": "minecraft:item",
+					"name": "plateful:tomato_seeds",
+					"weight": 1,
+					"modifier": {
+						"type": "minecraft:set_count",
+						"count": {
+							"type": "minecraft:uniform",
+							"min": 2,
+							"max": 4
+						}
+					}
+				}
+			]
+		}
+	],
+	"random_sequence": "plateful:chests/seeds"
+}

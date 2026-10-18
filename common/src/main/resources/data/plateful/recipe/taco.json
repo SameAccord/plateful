@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:tortilla",
+		"minecraft:cooked_beef",
+		"plateful:lettuce",
+		"plateful:tomato"
+	],
+	"result": {
+		"id": "plateful:taco"
+	}
+}

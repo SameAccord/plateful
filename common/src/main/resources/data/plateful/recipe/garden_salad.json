@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:lettuce",
+		"plateful:tomato",
+		"minecraft:carrot",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:garden_salad"
+	}
+}

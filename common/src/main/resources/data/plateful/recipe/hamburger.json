@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:bread",
+		"minecraft:cooked_beef"
+	],
+	"result": {
+		"id": "plateful:hamburger"
+	}
+}

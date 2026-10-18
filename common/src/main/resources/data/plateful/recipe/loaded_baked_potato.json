@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:baked_potato",
+		"minecraft:cooked_porkchop"
+	],
+	"result": {
+		"id": "plateful:loaded_baked_potato"
+	}
+}

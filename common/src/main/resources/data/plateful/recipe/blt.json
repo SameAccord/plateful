@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:bread",
+		"minecraft:cooked_porkchop",
+		"plateful:lettuce",
+		"plateful:tomato"
+	],
+	"result": {
+		"id": "plateful:blt"
+	}
+}

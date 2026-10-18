@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"minecraft:wheat",
+		"minecraft:cocoa_beans",
+		"minecraft:egg",
+		"minecraft:sugar"
+	],
+	"result": {
+		"id": "plateful:brownie"
+	}
+}

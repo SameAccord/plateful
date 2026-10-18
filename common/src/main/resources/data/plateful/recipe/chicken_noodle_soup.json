@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		"plateful:noodles",
+		"minecraft:cooked_chicken",
+		"minecraft:carrot",
+		"minecraft:bowl"
+	],
+	"result": {
+		"id": "plateful:chicken_noodle_soup"
+	}
+}
